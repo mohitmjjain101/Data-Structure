@@ -109,7 +109,6 @@ int main(){
       cout<<"value is at index "<<i<<" is "<< *(ptr+i)<<endl<<endl;
       }
     }
-    
     if(input == 6){
       int index;
       cout<<"enter index"<<endl;
